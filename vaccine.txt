@@ -1,0 +1,5 @@
+Pfizer PF USA 2 50.0 10
+Sinovac SV China 2 18.8 1009
+AstraZeneca AZ UK 2 10.0 973
+SputnikV SP Russia 2 10.0 918
+CanSinoBio CS China 1 10.9 1063
