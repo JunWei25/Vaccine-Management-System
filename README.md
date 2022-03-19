@@ -1,5 +1,6 @@
 # Vaccine-Management-System
-Designed a simple console vaccine management system using C
+Designed a simple console vaccine management system using C.
+
 The features of the Vaccine Management System are as follows:
 1. Add vaccine
 2. Modify vaccine details
